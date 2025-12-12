@@ -27,4 +27,5 @@ The implementation is intentionally minimal and is expected to evolve through co
 
 ## License
 Released under the MIT License.
-10.5281/zenodo.17913021
+
+DOI: https://doi.org/10.5281/zenodo.17913021
