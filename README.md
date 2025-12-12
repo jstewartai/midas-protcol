@@ -3,6 +3,7 @@
 **MIDAS (Multi-Turn Invariant Drift Analysis System)** is a protocol-first framework for measuring and constraining semantic drift in multi-turn large language model (LLM) interactions.
 
 This repository provides a **reference implementation** of the MIDAS protocol, including a dual-LLM evaluation harness, reproducible drift and preservation metrics, and logging utilities intended to support independent replication studies.
+This repository contains a minimal reference implementation of the MIDAS protocol for measuring and controlling drift in multi-turn LLM interactions.
 
 ## What MIDAS Is
 - A runtime protocol for interaction-time stability
