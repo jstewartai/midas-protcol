@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "MIDAS: Multi-Turn Invariant Drift Analysis System"
+message: "If you use this software or protocol, please cite it as below."
+type: software
+
+authors:
+  - family-names: Stewart
+    given-names: John
+
+abstract: >
+  MIDAS is a minimal, falsifiable protocol for measuring and controlling
+  semantic drift in multi-turn large language model interactions.
+  It defines interaction invariants, operational drift and preservation
+  metrics, and a dual-LLM evaluation harness to support independent
+  replication and stress testing.
+
+keywords:
+  - large language models
+  - semantic drift
+  - multi-turn interaction
+  - alignment
+  - replication
+  - invariants
+
+license: MIT
+repository-code: https://github.com/jstewartai/midas-protcol
